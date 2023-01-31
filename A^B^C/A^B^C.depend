@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675170879 source:f:\phase 2\a^b^c\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
