@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676892781 source:f:\phase 2\andryusha and socks\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
