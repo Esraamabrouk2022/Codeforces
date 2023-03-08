@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678272744 source:f:\phase 2\string shifting\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
