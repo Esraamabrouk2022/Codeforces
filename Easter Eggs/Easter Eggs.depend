@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678276421 source:f:\phase 2\easter eggs\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
